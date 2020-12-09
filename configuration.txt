@@ -1,0 +1,7 @@
+#ffffff
+#3e3e3e
+#ffff1a
+#000000
+#fe421b
+#43fee7
+#7857ea
